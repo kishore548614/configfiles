@@ -1,0 +1,8 @@
+<Config>
+  <properties>
+  <entry>
+      <string>SPL_INSTRUCTION_LENGTH</string>
+	  <string>198</string>
+   </entry>
+    </properties>
+  </Config>
